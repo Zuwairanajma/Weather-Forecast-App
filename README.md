@@ -116,6 +116,59 @@ You can deploy this project adding new lines of code to index.html and styles.cs
 - Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
 - LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
 
+👤 **Author2**
+
+👤 Babatunde Basit
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author3**
+
+👤 Yinka Babalola
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author4**
+
+👤 Wilfred Patrick
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author5**
+
+👤 Adibe Chidera
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author6**
+
+👤 Tony Destiny
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author1**
+
+👤 Samson Omotunde
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+👤 **Author1**
+
+👤 Muo Vitalis
+- GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
+- Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
+- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
+
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
